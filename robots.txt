@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://heshaangu.paddockinsight.com/sitemap.xml
